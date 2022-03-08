@@ -6,7 +6,7 @@ namespace DIO.Abstracao.RPG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Wdfsdfsdorld!");
         }
     }
 }
