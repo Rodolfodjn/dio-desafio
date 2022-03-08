@@ -25,7 +25,7 @@ namespace DIO.Abstracao.RPG.src.Entities
 
         public virtual string Attack()
         {
-            return Name + " Atacaou com a sua espada!!";
+            return Name + " Atacaou com a sua espaaaaaada!!";
         }
     }
 }
